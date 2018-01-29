@@ -1,0 +1,13 @@
+UnityPackageManager/*
+Library/*
+.vscode/*
+.vs/*
+ProjectSettings/*
+Temp/*
+*.meta
+obj/*
+*.blend
+*.blend1
+*.apk
+*.prefab
+*.fbx
